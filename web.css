@@ -1,0 +1,46 @@
+picture{
+    margin:0px;
+    width: 100%;
+    
+}
+.name{
+    position:absolute;
+    top:176px;
+    left:236px;
+    font-size:77px;
+    color:white;
+}
+.body{
+    background-color: white;
+}
+.hoho{
+    position:absolute;
+    top:400px;
+    left:37px;
+    font-style: italic;
+    font-size: 32px;
+    color:white;
+
+}
+.h1{
+    color:violet;
+    position:absolute;
+    top:330px;
+    left:70px;
+
+}
+.name1{
+    color:violet;
+    position:absolute;
+    top:329px;
+    left:690px;
+
+}
+.hehe{
+    position:absolute;
+    top:395px;
+    left:650px;
+    font-style: italic;
+    font-size: 32px;
+    color:white;
+}
